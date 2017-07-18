@@ -22,7 +22,7 @@ https://slides.com/lyubonko/introduction-to-computer-vision-3/live#/
 1. [Introduction to pytorch] assignments/a1_pytorch.ipynb
 2. [Dataset] assignments/a2_dataset_cifar10.ipynb OR assignments/a2_dataset_dtd.ipynb
 3. [Two layer network] assignments/a3_two_layer_network.ipynb
-4. [Dataset] assignments/a4_cnn.ipynb
+4. [Convolutional Neural Network] assignments/a4_cnn.ipynb
 
 ## Required packages
 1. jupyter notebook
