@@ -9,13 +9,22 @@ git clone https://github.com/lyubonko/LDSSS2017.git
 ``` 
 or download as a zip file.
 
+## Lectures
+
+1. Link to the first lecture http://slides.com/lyubonko/introduction-to-computer-vision-2#/
+2. Link to the second http://slides.com/lyubonko/introduction-to-computer-vision-3#/
+
+If you want to follow second lecture 'live' use
+https://slides.com/lyubonko/introduction-to-computer-vision-3/live#/
+
 
 ## Assignments
 1. [Introduction to pytorch] assignments/a1_pytorch.ipynb
 2. [Dataset] assignments/a2_dataset_cifar10.ipynb OR assignments/a2_dataset_dtd.ipynb
+3. [Two layer network] assignments/a3_two_layer_network.ipynb
+4. [Dataset] assignments/a4_cnn.ipynb
 
 ## Required packages
-
 1. jupyter notebook
 2. matplotlib
 3. pytorch
@@ -26,8 +35,8 @@ There may be some issues with pytorch for Windows. You can try one of the follow
 
 **Install pytorch directly from Windows**
 
-conda install -c peterjc123 pytorch=0.1.12  
-see discussion on https://github.com/pytorch/pytorch/issues/494  
+conda install -c peterjc123 pytorch=0.1.12 
+see discussion on https://github.com/pytorch/pytorch/issues/494 
 remarks: the guy who tested it had Python 3.6.1
 
 **Use docker**
