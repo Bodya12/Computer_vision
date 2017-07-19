@@ -11,11 +11,7 @@ or download as a zip file.
 
 ## Lectures
 
-1. Link to the first lecture http://slides.com/lyubonko/introduction-to-computer-vision-2#/
-2. Link to the second http://slides.com/lyubonko/introduction-to-computer-vision-3#/
-
-If you want to follow second lecture 'live' use
-https://slides.com/lyubonko/introduction-to-computer-vision-3/live#/
+The lectures in html format are available in folder 'lectures'.
 
 
 ## Assignments
